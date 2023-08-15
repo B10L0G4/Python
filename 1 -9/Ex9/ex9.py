@@ -4,7 +4,7 @@
 
 fahrenheitGraus = float(input('Qual a temperatura em graus fahrenheit hj? '))
 
-celsius = fahrenheitGraus - 32
-celsius /= 1.8
+celsius = (fahrenheitGraus - 32) / 1.8
 
-print(f'A temperatura em graus Fahrenheit hoje é {fahrenheitGraus}F° e sua temperatura equivalente em graus Celsius é {celsius:.1f}C°')
+print(f'A temperatura em graus Fahrenheit hoje é {fahrenheitGraus}F° '
+      f'e sua temperatura equivalente em graus Celsius é {celsius:.1f}C°')
