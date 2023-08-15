@@ -15,5 +15,5 @@
 > 8 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
 
 > 9 - Faça um Programa que peça a temperatura em graus Fahrenheit,
-> transforme e mostre a temperatura em graus Celsius.
+> transforme e mostre a temperatura em graus Celsius e o inverso .
 > C = 5 \* ((F-32) / 9).
